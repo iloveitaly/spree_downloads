@@ -1,0 +1,6 @@
+- https://github.com/krick/spree-product-attachment
+- https://github.com/jseifer/spree-s3-download
+
+- http://blog.devinterface.com/2010/02/create-zip-files-on-the-fly/ zip file generation
+- http://stackoverflow.com/questions/65250/convert-a-doc-or-pdf-to-an-image-and-display-a-thumbnail-in-ruby preview image for PDF
+- http://cloudinary.com/ image management in the cloud
